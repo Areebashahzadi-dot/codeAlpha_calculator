@@ -1,7 +1,7 @@
 # Blush — Cute & Colorful Calculator
+**[Calculator Live Demo](https://areebashahzadi-dot.github.io/codeAlpha_calculator/)
 
 A responsive CodeAlpha Task 2 calculator built with HTML, CSS, and vanilla JavaScript.
-
 ## Features
 - Addition, subtraction, multiplication, division and percentage
 - Decimal input, all-clear and delete
